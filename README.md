@@ -2,11 +2,6 @@
 
 
 
-# Descrição
-
-
-------------------------
-
 Este é um jogo de perguntas e respostas sobre super-heróis desenvolvido em Go. O jogo carrega questões a partir de um arquivo CSV e permite que o usuário responda para testar seus conhecimentos.
 
 Funcionalidades
